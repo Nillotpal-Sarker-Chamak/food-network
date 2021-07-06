@@ -7,9 +7,6 @@ h1{
     color:darkslategray;
     font-weight: 700;
 }
-p{
-    font-size: 25px;
-}
 .top{
     display: flex;
     margin-bottom: 100px;
@@ -66,4 +63,35 @@ p{
       font-weight: 400;
       margin-bottom: 100px;
   }
+  .last-part{
+      display: flex;
+      margin-left: 35px;
+      margin-right: 35px;
+      margin-bottom: 100px;
+  }
+  .recipe-width img{
+      width:100%;
+  }
+  .recipe-width{
+    width:30%;
+    margin-left: 3%;
+    margin-right: 3%;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    border-radius: 30px;
+    box-shadow: 10px 10px 40px gray;
+    }
+    .footer-head{
+        color:orange ;
+    }
+    .footer{
+        text-align: center;
+        background-color: black;
+        height: 200px;
+        padding-bottom: 45px;
+    }
+    .footer-p{
+        color: blanchedalmond;
+    }
   
