@@ -110,12 +110,14 @@ h1{
   }
   .My-part{
       display: flex;
+      margin-left: 35px;
+      margin-right: 35px;
       margin-bottom: 100px;
   }
   .others{
-    width:30%;
-    margin-left: 3%;
-    margin-right: 3%;
+    width:40%;
+    margin-left: 10%;
+    margin-right: 10%;
     padding-left: 20px;
     padding-right: 20px;
     padding-top: 20px;
