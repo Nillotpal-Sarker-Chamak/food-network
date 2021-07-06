@@ -94,4 +94,17 @@ h1{
     .footer-p{
         color: blanchedalmond;
     }
-  
+  .optional{
+      display: flex;
+      margin-left: 175px;
+      margin-right: 150px;
+      padding: 30px 50px white;
+      box-shadow: 10px 10px 40px  gray; 
+      border-radius: 20px;
+      margin-bottom: 100px;
+  }
+  .optiondiv{
+      width:33%;
+      margin-left: 85px;
+    margin-right: 85px;
+  }
